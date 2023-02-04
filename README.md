@@ -4,8 +4,8 @@ Hangman is a simple word guessing game. Players try to figure out an unknown wor
 
 You are free to install and use this App
 Download the project files.
-In terminal go to the main file directory of the game and type 
-###`npm init`
+In terminal go to the main file directory of the game and type:
+### `npm init`
 In the project directory to start, you can run:
 ### `npm start`
 
